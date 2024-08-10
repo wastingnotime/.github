@@ -1,12 +1,16 @@
-## Hi there 👋
+# wasting no time
 
-<!--
+Our goal is to try a lot of stuff and create some references to start a project from a agnostic point of view, in other words, without propaganda and favoritism about technologies, just specs and standards.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## projects
+
+### contacts
+
+Contacts is a reference for development stacks.
+The main objective is not to directly compare some characteristics such as performance, memory usage or even CPU consumption, but rather to give a general idea of how each stack behaves, its requirements and how they can help in this aspect.
+
+
+## how to contribute?
+
+At this moment, if there are something that you consider interesting let us know.
