@@ -14,3 +14,4 @@ The main objective is not to directly compare some characteristics such as perfo
 ## how to contribute?
 
 At this moment, if there are something that you consider interesting let us know.
+We created a space for it at: [our open general discussion](https://github.com/orgs/wastingnotime/discussions/1)
