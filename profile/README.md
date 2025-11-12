@@ -14,11 +14,13 @@ The main objective is not to directly compare some characteristics such as perfo
 
 HireFlow is a reference for microservices using kubernetes.
 A lightweight Applicant Tracking System built to scale.
+
 Logbook on: TBD
 
 ### gamehub
 
 GameHub is an essay of lightweight microservices construction targeting limited resource runtime environment.
+
 Logbook on: [https://wastingnotime.org/sagas/game-hub/](https://wastingnotime.org/sagas/game-hub?utm_medium=social&utm_source=github)
 
 
