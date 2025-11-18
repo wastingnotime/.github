@@ -15,7 +15,7 @@ The main objective is not to directly compare some characteristics such as perfo
 HireFlow is a reference for microservices using kubernetes.
 A lightweight Applicant Tracking System built to scale.
 
-Logbook on: TBD
+Logbook on: [https://wastingnotime.org/sagas/hireflow/](https://wastingnotime.org/sagas/hireflow?utm_medium=social&utm_source=github)
 
 ### gamehub
 
