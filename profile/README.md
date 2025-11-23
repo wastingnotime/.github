@@ -1,6 +1,6 @@
 # wasting no time
 
-Our goal is to try a lot of stuff and create some references to start a project from a agnostic point of view, in other words, without propaganda and favoritism about technologies, just specs and standards.
+WNT explores different technologies to create clean, agnostic starting points for new projects. No propaganda, no favoritism — just practical references built on specifications, standards, and real engineering principles.
 
 
 ## projects
