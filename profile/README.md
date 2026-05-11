@@ -5,19 +5,23 @@ WNT explores different technologies to create clean, agnostic starting points fo
 
 ## projects
 
+### mrl-starter
 
-### hireflow
+MRL is a repository-centered model refinement loop for evolving software through explicit artifacts rather than chat memory.
+MRL-starter is a template repository to start MRL development.
+
+### hireflow (archived)
 
 HireFlow is a reference for microservices using kubernetes.
 A lightweight Applicant Tracking System built to scale.
 
-Logbook on: [https://wastingnotime.org/sagas/hireflow/](https://wastingnotime.org/sagas/hireflow/?utm_medium=social&utm_source=github)
+Logbook on: [https://wastingnotime.org/sagas/hireflow/](https://blog.wastingnotime.org/sagas/hireflow/?utm_medium=social&utm_source=github)
 
-### gamehub
+### gamehub (archived)
 
 GameHub is an essay of lightweight microservices construction targeting limited resource runtime environment.
 
-Logbook on: [https://wastingnotime.org/sagas/game-hub/](https://wastingnotime.org/sagas/game-hub/?utm_medium=social&utm_source=github)
+Logbook on: [https://blog.wastingnotime.org/sagas/game-hub/](https://blog.wastingnotime.org/sagas/game-hub/?utm_medium=social&utm_source=github)
 
 ### contacts (archived)
 
