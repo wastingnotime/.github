@@ -1,0 +1,11 @@
+{
+  "kit": "WNT Forward W",
+  "version": "1.0.0",
+  "source_repository": "https://github.com/wastingnotime/wnt-design",
+  "source_revision": "e5b05dbda38eccf25d8e9c191885e0fe853d021b",
+  "source_directory": "assets/identity/v1.0.0/exports",
+  "files": {
+    "avatar.png": "f456db90c90c83d83aaaddd46d45a033f351374406db002660bf56b9ebf49350",
+    "lockup-dark.svg": "5df0d4112070e59baa57925105594db6262cd80fb71ecb84b4c59da4fb558f08"
+  }
+}
