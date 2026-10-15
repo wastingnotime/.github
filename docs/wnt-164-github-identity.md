@@ -46,3 +46,24 @@ are independent: restore the previous avatar and description (“how to build
 software wasting no time?”), clear the website/social fields, and clear these six
 pins to restore the previous automatic popular-repositories list. Historical
 repositories remain archived and available throughout.
+
+## Visual evidence
+
+- [Live anonymous organization](evidence/wnt-164/organization-public.jpg): approved
+  square avatar, public bio/links and six public pins. The old README is still
+  visible here because the PR has not merged.
+- [GitHub README, dark](evidence/wnt-164/readme-dark.jpg).
+- [GitHub README, light](evidence/wnt-164/readme-light.jpg): anonymous browser with
+  temporary prefers-color-scheme emulation, cleared after capture.
+
+Both theme renders were visually inspected. The history disclosure was expanded
+on GitHub and exposed all four archive links. The approved kit's square/circular
+avatar specimen was inspected alongside GitHub's full-square upload preview:
+all four panels retain clear space inside either crop. The 100px public avatar
+remains distinguishable. The exact upstream specimen is
+`wnt-design/docs/identity/v1.0.0-specimen.png` at the recorded source revision.
+
+PR: https://github.com/wastingnotime/.github/pull/2
+
+WNT-164 remains in review until the README is merged and the deployed organization
+README is captured. WNT-166 retains responsibility for the cross-channel audit.
