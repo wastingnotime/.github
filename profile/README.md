@@ -1,35 +1,24 @@
-# wasting no time
+<p>
+  <a href="https://wastingnotime.org/">
+    <img src="https://raw.githubusercontent.com/wastingnotime/wnt-design/e5b05dbda38eccf25d8e9c191885e0fe853d021b/assets/identity/v1.0.0/exports/lockup-dark.svg" alt="Wasting No Time" width="400">
+  </a>
+</p>
 
-WNT explores different technologies to create clean, agnostic starting points for new projects. No propaganda, no favoritism — just practical references built on specifications, standards, and real engineering principles.
+WNT builds practical software, shared engineering foundations, and experiments in the open. We learn by building and share what works.
 
+[Website](https://wastingnotime.org/) · [YouTube](https://www.youtube.com/@wastingnotime)
 
-## projects
+## What we're building
 
-### mrl-starter
+- [Sliding Tasks](https://wastingnotime.org/sliding-tasks/) — a sliding task management workspace. [Source](https://github.com/wastingnotime/sliding-tasks).
+- [Wishlist](https://wastingnotime.org/wishlist/) — a public space for WNT ideas and requests. [Source](https://github.com/wastingnotime/wishlist).
+- Shared foundations for [design](https://github.com/wastingnotime/wnt-design), [web](https://github.com/wastingnotime/wnt-web), [Go](https://github.com/wastingnotime/wnt-go), [Android](https://github.com/wastingnotime/wnt-android), and [contracts](https://github.com/wastingnotime/wnt-contracts).
 
-MRL is a repository-centered model refinement loop for evolving software through explicit artifacts rather than chat memory.
-MRL-starter is a template repository to start MRL development.
+Have an idea or request? Add it to [Wishlist](https://wastingnotime.org/wishlist/).
 
-### hireflow (archived)
+<details>
+<summary>Earlier experiments</summary>
 
-HireFlow is a reference for microservices using kubernetes.
-A lightweight Applicant Tracking System built to scale.
+Archived projects remain available as historical references: [Contacts](https://github.com/wastingnotime/contacts), [HireFlow](https://github.com/wastingnotime/hireflow), [Game Hub](https://github.com/wastingnotime/game-hub), and [MRL Starter](https://github.com/wastingnotime/mrl-starter).
 
-Logbook on: [https://wastingnotime.org/sagas/hireflow/](https://blog.wastingnotime.org/sagas/hireflow/?utm_medium=social&utm_source=github)
-
-### gamehub (archived)
-
-GameHub is an essay of lightweight microservices construction targeting limited resource runtime environment.
-
-Logbook on: [https://blog.wastingnotime.org/sagas/game-hub/](https://blog.wastingnotime.org/sagas/game-hub/?utm_medium=social&utm_source=github)
-
-### contacts (archived)
-
-Contacts is a reference for development stacks.
-The main objective is not to directly compare some characteristics such as performance, memory usage or even CPU consumption, but rather to give a general idea of how each stack behaves, its requirements and how they can help in this aspect.
-The repositories were archived and a post on blog will be written soon.
-
-## how to contribute?
-
-At this moment, if there are something that you consider interesting let us know.
-We created a space for it at: [our open general discussion](https://github.com/orgs/wastingnotime/discussions/1)
+</details>
